@@ -11,3 +11,7 @@
 "top_rate_title" = "Peringkat Teratas";
 "popular_title" = "Populer";
 "up_comming_title" = "Mendatang";
+"text_movie_title" = "Judul film";
+"text_release_date" = "Tanggal rilis";
+"text_runtime" = "Runtime";
+"text_language" = "Bahasa";

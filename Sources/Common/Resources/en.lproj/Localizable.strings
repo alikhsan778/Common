@@ -11,3 +11,7 @@
 "top_rate_title" = "Top Rated";
 "popular_title" = "Popular";
 "up_comming_title" = "Up Comming";
+"text_movie_title" = "Movie Title";
+"text_release_date" = "Release Date";
+"text_runtime" = "Runtime";
+"text_language" = "Language";
